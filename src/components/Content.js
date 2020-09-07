@@ -1,11 +1,11 @@
 import React from 'react';
-
 import Header from './Header';
 import About from './About';
 import Contact from './Contact';
 import ProjectsComponent from './projects/ProjectsComponent'
 import HabilitiesComponent from './habilities/HabilitiesComponent'
 import '../styles/Content.css';
+import Curriculum from './Curriculum';
 
 
 const Content = () => {
@@ -16,7 +16,7 @@ const Content = () => {
             />
             <main>
                 <div className="title" id="title-init">
-                    <span className="texto" style={{color: '#fff'}}>Hola soy Juan Camilo Castañeda. <br/>
+                    <span className="texto" style={{color: '#fff'}}>Hola, soy Juan Camilo Castañeda. <br/>
                     Desarrollador web Front-end</span>
                 </div>
                 <div className="container-fluid" id="about">
@@ -33,6 +33,9 @@ const Content = () => {
                 </div>
                 <div className="container-fluid " >
                     <Contact/>   
+                </div>
+                <div>
+                    <Curriculum/>
                 </div>
             </main>
             <footer className="color-d information">
