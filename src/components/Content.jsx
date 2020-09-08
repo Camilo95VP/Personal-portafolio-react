@@ -1,22 +1,22 @@
 import React from 'react';
-import Header from './Header';
-import About from './About';
-import Contact from './Contact';
-import ProjectsComponent from './projects/ProjectsComponent'
-import HabilitiesComponent from './habilities/HabilitiesComponent'
+import Header from './Header.jsx';
+import About from './About.jsx';
+import Contact from './Contact.jsx';
+import ProjectsComponent from './projects/ProjectsComponent.jsx'
+import HabilitiesComponent from './habilities/HabilitiesComponent.jsx'
 import '../styles/Content.css';
-import Curriculum from './Curriculum';
+import Curriculum from './Curriculum.jsx';
 
 
 const Content = () => {
 
     return ( 
-        <div className="content-fluid font">    
+        <div id="home-container" className="content-fluid font">    
             <Header 
             />
             <main>
-                <div className="title" id="title-init">
-                    <span className="texto" style={{color: '#fff'}}>Hola, soy Juan Camilo Castañeda. <br/>
+                <div id="title-initial" className="title" >
+                    <span id="welcome" className="texto" style={{color: '#fff'}}>Hola, soy Juan Camilo Castañeda. <br/>
                     Desarrollador web Front-end</span>
                 </div>
                 <div className="container-fluid" id="about">

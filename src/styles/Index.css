@@ -1,7 +1,14 @@
 body{
-    font-family: 'Courgette', cursive;
-    color: rgb(0, 0, 0);
+    font-family: "Gill Sans Extrabold", Helvetica, sans-serif;
     background: linear-gradient(to left,#1b1b1b, #ffffff)
+    
+}
+.welcome{
+    text-align: center;
+}
+
+.title-initial{
+    text-align: center;
 }
 
 .title {
@@ -14,4 +21,13 @@ body{
 
 .content-fluid font {
     color: black;
+}
+.title-init{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.home-container{
+    text-align: center;
 }

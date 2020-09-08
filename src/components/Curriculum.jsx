@@ -12,7 +12,7 @@ const Cv=()=>{
             <div id="Container-pdf">
                 <p>Da click en el siguiente enlace para su descarga.</p>
                 <a className='links-Cv' href={Curriculum} download="Curriculum_Academia_Geek_Desarrollo.pdf">
-                <FontAwesomeIcon className='iconos' icon={['fab', 'buffer']} />Descargar aquí Curriculum vitae Juan Camilo Castañeda</a>
+                <FontAwesomeIcon className='iconos'/>Descargar aquí Curriculum vitae Juan Camilo Castañeda</a>
             </div>
             
             
