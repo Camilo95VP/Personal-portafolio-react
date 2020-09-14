@@ -32,7 +32,7 @@
 }
 
 .margin-contact{
-    height: 70vh;
+    height: 72vh;
 }
 
 .card-body{
@@ -64,7 +64,7 @@
 }
 
 .line-hr{
-    height: 10vh;
+    height: 7vh;
     background: linear-gradient(to left,#1b1b1b, #ffffff);
 
 }
@@ -661,11 +661,12 @@ svg{
     }
 
     #padre{
-        height: 95vh;
+        height: 96.7vh;
+        
     }
 
     #about-container{
-        height: 92vh;
+        height: 93.8vh;
     }
 
 }
