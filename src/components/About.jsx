@@ -13,8 +13,12 @@ const About = () => (
             trabajo, integración y habilidad para
             enfrentar situaciones de desafío y
             superación en diferentes ambientes
-            empresariales y culturales,apto para
-            trabajar en equipo, mi objetivo
+            empresariales, apto para
+            trabajar en equipo. 
+            <br></br>
+            <br></br>
+            
+            Mi objetivo
             principal como desarrollador de
             Software Front-End, es crear sitios y
             aplicaciones Web, partiendo de lo
