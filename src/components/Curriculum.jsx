@@ -14,7 +14,7 @@ const Cv=()=>{
 
 
                 <a id="curriculum" className='links-Cv' href={Curriculum} download="Curriculum_Academia_Geek_Desarrollo.pdf">
-                <FontAwesomeIcon className='iconos'/>Presiona aquí para descargar Curriculum vitae Juan Camilo Castañeda</a>
+                <FontAwesomeIcon className='iconos'/>Presiona aquí para descargar curriculum vitae</a>
             </div>
             
             
