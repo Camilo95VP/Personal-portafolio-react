@@ -64,7 +64,7 @@
 }
 
 .line-hr{
-    height: 7vh;
+    height: 9vh;
     background: linear-gradient(to left,#1b1b1b, #ffffff);
 
 }
@@ -661,12 +661,12 @@ svg{
     }
 
     #padre{
-        height: 96.7vh;
+        height: 94.7vh;
         
     }
 
     #about-container{
-        height: 93.8vh;
+        height: 91.9vh;
     }
 
 }
