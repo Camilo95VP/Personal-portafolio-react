@@ -9,7 +9,7 @@ const About = () => (
             <img className="img-profile" src={photo} alt="profile" />
         </div>
         <div className="info-contact d-flex justify-content-center flex-column col-12 col-md-6 bg-light text-dark h3 m-0">
-            <p className="margin-p">Creativo y con capacidad de
+            <p className="margin-p">Creativo, con capacidad de
             trabajo, integración y habilidad para
             enfrentar situaciones de desafío y
             superación en diferentes ambientes

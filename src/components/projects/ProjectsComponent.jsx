@@ -7,9 +7,9 @@ import drumsImg from '../../images/Drums.png';
 import documentImg from '../../images/ducument.png';
 import calculatoreImg from '../../images/calculator.png';
 import bankImg from '../../images/bank.png';
-import surveyImg from '../../images/survey.png';
+import gitinnova from '../../images/gitinnova.png';
 import markImg from '../../images/mark.png';
-import randomqImg from '../../images/RandomQ.png';
+import expres from '../../images/expres.png';
 import podcastImg from '../../images/podcast.png';
 
 
@@ -30,11 +30,11 @@ const ProjectsComponent = () => {
                 </a>
             </div>
             <div className="col-11 col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-4 mb-4">
-                <a href="https://random-quote-machine-zeta.vercel.app/" target="_blank" rel="noopener noreferrer" className="a-style">
+                <a href="https://expres-seven.vercel.app/" target="_blank" rel="noopener noreferrer" className="a-style">
                     <div className="card bg-dark card-style">
-                        <img src={randomqImg} className="img-cards" alt="eduapp" />
+                        <img src={expres} className="img-cards" alt="eduapp" />
                         <div className="card-body text-center">
-                            <h5 className="card-title">Random Quote Machine</h5>
+                            <h5 className="card-title">Express services</h5>
                         </div>
                     </div>
                 </a>
@@ -50,11 +50,11 @@ const ProjectsComponent = () => {
                 </a>
             </div>
             <div className="col-11 col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-4 mb-4">
-                <a href="https://markdown-previewer-eta.vercel.app/" target="_blank" rel="noopener noreferrer" className="a-style">
+                <a href="https://git-innova-red.vercel.app/" target="_blank" rel="noopener noreferrer" className="a-style">
                     <div className="card bg-dark card-style">
-                        <img src={markImg} className="img-cards" alt="markdown" />
+                        <img src={gitinnova} className="img-cards" alt="portfolio" />
                         <div className="card-body text-center">
-                            <h5 className="card-title">Mark Down Previewer</h5>
+                            <h5 className="card-title">Gitinnova</h5>
                         </div>
                     </div>
                 </a>
@@ -120,15 +120,16 @@ const ProjectsComponent = () => {
                 </a>
             </div>
             <div className="col-11 col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-4 mb-4">
-                <a href="https://camilo95vp.github.io/Survey-Form/" target="_blank" rel="noopener noreferrer" className="a-style">
+                <a href="https://markdown-previewer-eta.vercel.app/" target="_blank" rel="noopener noreferrer" className="a-style">
                     <div className="card bg-dark card-style">
-                        <img src={surveyImg} className="img-cards" alt="portfolio" />
+                        <img src={markImg} className="img-cards" alt="markdown" />
                         <div className="card-body text-center">
-                            <h5 className="card-title">Survey Form</h5>
+                            <h5 className="card-title">Mark Down Previewer</h5>
                         </div>
                     </div>
                 </a>
-            </div>
+            </div>           
+            
             <div className="col-11 col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-4 mb-4">
                 <a href="https://camilo95vp.github.io/PodCast/" target="_blank" rel="noopener noreferrer" className="a-style">
                     <div className="card bg-dark card-style">
